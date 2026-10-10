@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "name": "The Five Love Languages Test",
+    "tagline": "Discover how you give and receive love",
+    "description": "30 questions, about 5 minutes, to find your primary love language",
+    "minutes": 5
+  },
+  "questions": [
+    { "id": 1, "text": "When my partner compliments me on something specific, it warms me for a long time.", "scale": "words", "dir": 1 },
+    { "id": 2, "text": "When my partner puts the phone away and gives me their full attention, I feel truly happy.", "scale": "time", "dir": 1 },
+    { "id": 3, "text": "A little something my partner picked up for me can make my whole day.", "scale": "gifts", "dir": 1 },
+    { "id": 4, "text": "When my partner quietly takes care of life's tedious chores for me, I'm deeply touched.", "scale": "service", "dir": 1 },
+    { "id": 5, "text": "A hug can melt away a whole day's stress in an instant.", "scale": "touch", "dir": 1 },
+    { "id": 6, "text": "A simple “thanks for all you do” or “I love you” moves me more than any gift would.", "scale": "words", "dir": 1 },
+    { "id": 7, "text": "Doing even a small thing together — just taking a walk — makes me feel loved.", "scale": "time", "dir": 1 },
+    { "id": 8, "text": "A thoughtful birthday or anniversary gift reassures me that I hold a place in their heart.", "scale": "gifts", "dir": 1 },
+    { "id": 9, "text": "Having my partner fuss over me with water and medicine when I'm sick is when I feel most loved.", "scale": "service", "dir": 1 },
+    { "id": 10, "text": "When my partner naturally takes my hand as we walk, I feel sweet and secure inside.", "scale": "touch", "dir": 1 },
+    { "id": 11, "text": "A note from my partner — even just a brief one — is something I read over and over.", "scale": "words", "dir": 1 },
+    { "id": 12, "text": "What I treasure most is uninterrupted time that belongs to the two of us alone.", "scale": "time", "dir": 1 },
+    { "id": 13, "text": "It's not how much a gift costs that matters to me, but the feeling that I was on their mind.", "scale": "gifts", "dir": 1 },
+    { "id": 14, "text": "To me, a “let me handle that for you” is love at its most real.", "scale": "service", "dir": 1 },
+    { "id": 15, "text": "When I'm sad, a silent hug helps more than any words of comfort.", "scale": "touch", "dir": 1 },
+    { "id": 16, "text": "Hearing my partner say nice things about me to others makes me feel truly loved.", "scale": "words", "dir": 1 },
+    { "id": 17, "text": "My partner setting aside time just for me is more precious than any present.", "scale": "time", "dir": 1 },
+    { "id": 18, "text": "When my partner thinks of me and brings something back from a trip, it touches me deeply.", "scale": "gifts", "dir": 1 },
+    { "id": 19, "text": "My partner pitching in on the chores wins my heart faster than a hundred sweet nothings.", "scale": "service", "dir": 1 },
+    { "id": 20, "text": "I love nestling close to my partner — shoulder to shoulder, watching TV or whispering.", "scale": "touch", "dir": 1 },
+    { "id": 21, "text": "When I'm feeling down, what I need most is an encouraging word from my partner.", "scale": "words", "dir": 1 },
+    { "id": 22, "text": "Chatting, strolling, or just lazing side by side — as long as we're together, I'm content.", "scale": "time", "dir": 1 },
+    { "id": 23, "text": "I like keeping small mementos; they bring back moments of being loved.", "scale": "gifts", "dir": 1 },
+    { "id": 24, "text": "The way I show love is by doing things to make my partner's life a little easier.", "scale": "service", "dir": 1 },
+    { "id": 25, "text": "The hug when we reunite after time apart is how I feel love most directly.", "scale": "touch", "dir": 1 },
+    { "id": 26, "text": "Unspoken love doesn't quite reach me — I need to hear the words.", "scale": "words", "dir": 1 },
+    { "id": 27, "text": "A partner who is physically present but mentally elsewhere leaves me feeling lonelier than being alone.", "scale": "time", "dir": 1 },
+    { "id": 28, "text": "Little surprises on perfectly ordinary days tell me the love is alive and well.", "scale": "gifts", "dir": 1 },
+    { "id": 29, "text": "Coming home exhausted to find dinner already made — that, for me, is happiness.", "scale": "service", "dir": 1 },
+    { "id": 30, "text": "A head pat or a squeeze of my shoulder as my partner walks by makes me feel close to them.", "scale": "touch", "dir": 1 }
+  ],
+  "langs": {
+    "words": {
+      "name": "Words of Affirmation",
+      "desc": "Words of Affirmation means sincere praise, encouragement, and verbal expressions of love — a spoken “I love you,” a specific compliment, a thoughtful text. For someone whose primary love language is words, words carry real weight: one warm sentence can brighten the whole day, and one harsh one can cut deep. Affirming your partner with language is the cheapest and most underrated way to say “I love you.”",
+      "tips": [
+        "Tell your partner you need to hear the words instead of expecting them to guess.",
+        "Pause for three seconds before a critical remark — harsh words hurt you twice as much.",
+        "Ask for specifics: “here's what you did well” lands better than a generic “you're great.”",
+        "For their partner: offer at least one specific compliment or word of thanks every day.",
+        "For their partner: notes, voice messages, and sticky notes all count — don't hold back."
+      ]
+    },
+    "time": {
+      "name": "Quality Time",
+      "desc": "Quality Time means giving someone your undivided attention: phone away, eyes meeting, truly listening and responding. For people with this love language, being physically present but mentally absent hardly counts as company — focused attention says more than a thousand words. Time is the one thing you can't get back, which makes it the most honest proof of love.",
+      "tips": [
+        "Tell your partner plainly: it's not about the hours, it's about undivided attention.",
+        "Set aside regular time for just the two of you, even if it's only an hour a week.",
+        "Put your phone away when you're together, and gently remind them to do the same.",
+        "For their partner: putting the phone down and making eye contact beats an expensive gift.",
+        "For their partner: scheduling time to do something together is the best promise you can make."
+      ]
+    },
+    "gifts": {
+      "name": "Receiving Gifts",
+      "desc": "Receiving Gifts has nothing to do with money or price tags — what matters is “you thought of me, somewhere, at some moment.” A postcard picked up on the way home, a snack brought back from a trip, all say: this person was on your mind. For someone with this love language, gifts make love visible — something you can see, hold, and keep coming back to.",
+      "tips": [
+        "Tell your partner it's the thought that counts, so they don't stress about the price.",
+        "Show genuine delight when you receive something — your reaction is their best encouragement.",
+        "Keep and display these little things; they belong in your museum of love.",
+        "For their partner: small, everyday surprises work best — a postcard from a business trip is enough.",
+        "For their partner: remember the little things they mention wanting, and give them on ordinary days."
+      ]
+    },
+    "service": {
+      "name": "Acts of Service",
+      "desc": "Acts of Service means expressing love by doing: fixing the leaky faucet, cooking a meal, giving someone a ride, rescuing a deadline. For people with this love language, “actions speak louder than words” is a creed — spending your time and effort on someone is the most direct proof of love. Shared chores are the most down-to-earth kind of romance.",
+      "tips": [
+        "Ask for what you need directly instead of waiting for them to “just know.”",
+        "Thank them for every small deed — never treat their effort as a given.",
+        "Notice what they're good at, and let them help you their way.",
+        "For their partner: keep your word — one small promise kept beats one grand promise made.",
+        "For their partner: spot and take over one chore they hate; it's worth ten sweet nothings."
+      ]
+    },
+    "touch": {
+      "name": "Physical Touch",
+      "desc": "Physical Touch covers hugs, holding hands, cuddling, a hand on the shoulder — small gestures that are real emotional nourishment for someone with this love language. Physical closeness brings a sense of safety and acceptance, and a well-timed hug often says more than any words of comfort. By the same token, distance and withdrawal during conflict hurt them twice as much.",
+      "tips": [
+        "Tell your partner that hugs and hand-holding genuinely matter to you — it's not being needy.",
+        "Make a hug part of your routine when you leave and when you come home.",
+        "After an argument, reach out physically — take their hand, for instance.",
+        "For their partner: when they're upset, offer a hug first and reason later.",
+        "For their partner: natural little moves — holding hands crossing the street, leaning in during a movie — work best."
+      ]
+    }
+  }
+}

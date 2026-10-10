@@ -1,0 +1,146 @@
+{
+  "ISTJ": {
+    "code": "ISTJ",
+    "name": "Logistician",
+    "tagline": "The quiet backbone you can build on",
+    "group": "sentinels",
+    "population": 12,
+    "overview": [
+      "The Logistician (ISTJ) is among the most steady and dependable of the sixteen personality types. They respect facts, value order, and believe a job should be done carefully and finished completely. While others are still weighing options, they have already broken the task into clear steps and started working through them. To them, keeping one's word is not a slogan but a baseline of character.",
+      "Their thinking is practical and rigorous: they trust what can be verified and are wary of empty talk and inflated promises. Details matter in their world—they will double-check the numbers in a report and the order of a process without complaint. They respect traditions and established rules not out of blind obedience, but because they believe practices tested by time usually exist for good reasons. When something goes wrong, they reach for experience and logic to find the safest fix.",
+      "The Logistician's greatest strengths are lasting responsibility and follow-through; in many organizations, they are the ones quietly keeping daily operations running. They rarely seek the spotlight, yet they are often the first person people think of in a crisis, because anything entrusted to them rarely needs a second follow-up. Their growth edge is learning to live with uncertainty: the world does not always run on schedule, and loosening their grip on the 'one right way' can make their reliability even more resilient."
+    ],
+    "strengths": ["Dependable and true to their word", "Highly organized and methodical", "Remarkably strong sense of duty", "Grounded, fact-based judgment", "Patient, thorough, and persistent", "Honors rules and keeps commitments"],
+    "weaknesses": ["Resistant to sudden change", "Can be rigid and inflexible", "Reserved, slow to share feelings", "Overly strict with self and others", "Tends to shoulder stress alone"],
+    "careers": ["Accountant", "Auditor", "Lawyer", "Military Officer", "Doctor", "Pharmacist", "Data Analyst", "Administrative Manager"],
+    "relationship": "In relationships, Logisticians are loyal and steady; once they commit, they take that commitment seriously. Their love tends to show itself in practical ways—remembering your schedule, fixing what's broken around the house, quietly keeping life in order. They are not ones for sweet nothings, and partners need to read this 'actions over words' language of love. At the same time, they are learning to voice their inner feelings instead of carrying every pressure alone.",
+    "variantA": "Assertive (-A) Logisticians carry themselves with quiet confidence. Criticism and unexpected changes rarely rattle them, and they trust their own judgment enough to stand by it—occasionally even finding humor in life's surprises.",
+    "variantT": "Turbulent (-T) Logisticians worry more about falling short, rechecking their work and blaming themselves quietly. That unease makes them exceptionally dutiful, but they need reminders that not every mistake is their fault—letting go is how they last longer."
+  },
+  "ISFJ": {
+    "code": "ISFJ",
+    "name": "Defender",
+    "tagline": "A quiet guardian with a warm heart",
+    "group": "sentinels",
+    "population": 14,
+    "overview": [
+      "The Defender (ISFJ) is one of the warmest and most attentive personality types. They are naturally tuned in to other people's needs, often noticing something is off before a word is said. Modest and low-key, they prefer not to draw attention, yet through daily acts of thoughtful care they make everyone around them feel safe. For them, being needed and looking after the people they love is a source of deep satisfaction.",
+      "They take their responsibilities seriously and have an excellent memory—especially for details about people: a friend's favorite dish, a colleague's habits, a wish a family member mentioned in passing. They respect tradition, cherish familiar routines and settings, and weigh practical impact more than abstract theory when making decisions. Beneath their gentle manner lies a firm set of principles; when something they truly value is at stake, they can show surprising stubbornness.",
+      "The Defender's strengths are lasting patience and a generous spirit of service; they are the most dependable unsung heroes on any team. The catch is that they habitually put others first, and years of doing so can quietly pile up exhaustion and resentment. Learning to voice their own needs and save room for rest is one of their life's most important lessons."
+    ],
+    "strengths": ["Deeply considerate and attentive", "Remembers the details that matter", "Diligent, devoted, and humble", "Patient, calming presence", "Loyal and true to commitments", "Practical and thorough in execution"],
+    "weaknesses": ["Struggles to voice personal needs", "Gives too much and burns out", "Avoids conflict, bottles things up", "Slow to adapt to change", "Quietly accumulates hurt and fatigue"],
+    "careers": ["Teacher", "Nurse", "Counselor", "Dietitian", "Librarian", "HR Specialist", "Social Worker", "Pediatrician"],
+    "relationship": "In love, Defenders are devoted and affectionate; they memorize their partner's preferences and express love through a home-cooked meal or a freshly ironed shirt. They are natural caretakers, willing to pour enormous time and energy into the people they love. Partners should remember that this giving is often silent—if it goes unnoticed for too long, hurt quietly builds up. Seeing and thanking them for the small things is what keeps this relationship warm.",
+    "variantA": "Assertive (-A) Defenders are emotionally steadier. They care for others without draining themselves and hold on to self-worth even when criticized—still thoughtful, but better at tending to themselves first.",
+    "variantT": "Turbulent (-T) Defenders worry about whether they have done enough, and other people's opinions sway their mood easily. That sensitivity makes their care even more delicate, but it also wears them out; learning to separate other people's emotions from their own responsibility is essential."
+  },
+  "ESTJ": {
+    "code": "ESTJ",
+    "name": "Executive",
+    "tagline": "Born to organize, built to lead",
+    "group": "sentinels",
+    "population": 9,
+    "overview": [
+      "The Executive (ESTJ) is a born organizer who cannot help bringing order to chaos wherever they go. They believe clear rules, well-defined roles, and honest effort are the foundation of getting things done. In their dictionary, 'plan' and 'responsibility' are the watchwords: if you say it, do it; if you commit, deliver.",
+      "They are frank and straightforward, dislike beating around the bush, and can pull a wandering meeting back on topic within minutes. They judge by facts and track records, and have zero patience for grandstanding. They respect tradition and structure, believing proven processes deserve to be followed—and they are willing to step up when the team loses direction, often the one to make the final call.",
+      "The Executive's strengths are outstanding coordination and execution; they are the people who turn plans into reality. Their growth edge is slowing down and adding flexibility—not every problem has a textbook answer, and not everyone prioritizes efficiency the way they do. Learning to listen and delegate will give their leadership more warmth and far more influence."
+    ],
+    "strengths": ["Excellent organizer and coordinator", "Decisive with strong execution", "Direct and clear about positions", "Leads by example, owns outcomes", "Goal-focused and efficiency-driven", "Down-to-earth and highly dependable"],
+    "weaknesses": ["Overly dominant, rarely compromises", "Impatient with slow processes", "Blunt delivery can wound others", "Stubborn and sure they're right", "Workaholic tendencies, skips rest"],
+    "careers": ["Business Manager", "Project Manager", "Bank Manager", "Military Officer", "Judge", "Sales Director", "School Principal", "Operations Director"],
+    "relationship": "In relationships, Executives are direct and dependable, showing love by getting things handled—planning the trip, managing the finances, mapping out the family's future. They are loyal partners who expect the same seriousness in return. The catch is their habit of giving orders; home can quietly turn into a second office. If a partner can point this out honestly and they learn to switch from efficiency mode to feeling mode, the relationship grows far sturdier.",
+    "variantA": "Assertive (-A) Executives are composed and unshakable; doubts rarely rattle them, and they handle the pressure of decision-making with ease. With a sober grip on their own abilities, they lead with a steady presence.",
+    "variantT": "Turbulent (-T) Executives care more about whether they have done well enough, and criticism genuinely lands. It makes them more reflective and willing to improve, but also prone to overextending themselves in the rush to prove their worth."
+  },
+  "ESFJ": {
+    "code": "ESFJ",
+    "name": "Consul",
+    "tagline": "The warm glue that holds people together",
+    "group": "sentinels",
+    "population": 12,
+    "overview": [
+      "The Consul (ESFJ) is warm and outgoing, and among the most approachable of all types. They genuinely care about how everyone around them is doing; the moment someone's mood dips or help is needed, they notice. To them, harmonious relationships and a close-knit community are the most valuable things in life.",
+      "They are practical doers: hearing a friend is sick, they actually show up with soup; when volunteers are needed, theirs is the first hand raised. They cherish traditions and rituals—birthdays, holidays, family gatherings, none are skipped—making them the social hub of their circle. They value tangible results: rather than debating big ideas, they would rather solve the concrete problem in front of them.",
+      "The Consul's strengths are the ability to bring people together and the diligence to keep every promise. Their growth edge is building an inner anchor: being able to affirm their own worth even when praise is absent. Learning to say no—and accepting that not everyone will like them—makes their kindness far more powerful."
+    ],
+    "strengths": ["Warm, friendly, and approachable", "Attentive to everyone's needs", "Skilled at creating harmony", "Keeps promises, always follows through", "Brings people together", "Practical, hands-on helper"],
+    "weaknesses": ["Overly concerned with others' approval", "Can't say no, easily overloaded", "Avoids conflict, glosses over tension", "Over-accommodates at own expense", "Extra sensitive to criticism"],
+    "careers": ["Teacher", "HR Manager", "Head Nurse", "PR Specialist", "Event Planner", "Account Manager", "Social Worker", "Hotel Manager"],
+    "relationship": "In relationships, Consuls are devoted and attentive; they remember every anniversary and take thoughtful care of their partner's family and friends. Their love is expressed openly and warmly, and they expect equal responsiveness in return. Partners should understand their deep need to be needed and appreciated—coldness and indifference are what hurt them most. In turn, they are learning not to make the relationship their entire world and to keep some space of their own.",
+    "variantA": "Assertive (-A) Consuls are more at ease socially and don't spiral into self-doubt over one person's coldness. Still warm-hearted, they carry an inner balance that tells them they are doing just fine.",
+    "variantT": "Turbulent (-T) Consuls are acutely attuned to every ripple in their relationships; a careless remark can echo in their minds for days. It makes them exquisite caretakers of others' feelings, but also more anxious—they need to learn to reassure themselves."
+  },
+  "ISTP": {
+    "code": "ISTP",
+    "name": "Virtuoso",
+    "tagline": "Quiet hands that solve real problems",
+    "group": "explorers",
+    "population": 5,
+    "overview": [
+      "The Virtuoso (ISTP) is quiet and reserved, yet blessed with remarkably skillful hands. They are endlessly curious about how things work and prefer to understand the world by taking it apart, experimenting, and rebuilding it. What others see as broken is, to them, simply not opened yet.",
+      "Their thinking is flexible and unbound by convention; they consistently find solutions others never consider. In a crisis they are at their calmest—the higher the stakes, the clearer their head—making them natural first responders. They treasure freedom and personal space above almost everything, and resent being tied down by rules, plans, or commitments.",
+      "The Virtuoso's strengths are superb hands-on skill and real-time adaptability; thorny practical problems tend to dissolve in their hands. Their growth edge is patience and persistence: digging deeper after the novelty fades, and tending to emotional connection, are both worth the effort. Turning interested into finished is what allows their talent to truly bear fruit."
+    ],
+    "strengths": ["Masterful hands-on technical skill", "Calmest in a crisis", "Sharp eye for how things work", "Flexible and quick to improvise", "Practical, cuts straight to solutions", "Independent and highly adaptable"],
+    "weaknesses": ["Emotionally reserved and distant", "Loses interest, struggles to persist", "Avoids commitment and long-term plans", "Casual about rules and risks", "Blunt words can sting unknowingly"],
+    "careers": ["Engineer", "Mechanic", "Pilot", "Surgeon", "Forensic Technician", "Data Analyst", "Firefighter", "Game Developer"],
+    "relationship": "In relationships, Virtuosos are easygoing but fiercely independent; clinginess is not their style, and saying 'I love you' every day is not either. They express love by doing: fixing your laptop, whisking you off on a spontaneous road trip, showing up the moment you need them. Partners need to understand that their strong need for personal space is not distance—it is simply how they stay themselves. In turn, they are learning to say their feelings out loud, so silence never becomes a wall between them.",
+    "variantA": "Assertive (-A) Virtuosos are exceptionally unflappable, taking risks and the unknown in stride. They trust their own craft and judgment, shrug off most criticism, and keep moving at their own pace.",
+    "variantT": "Turbulent (-T) Virtuosos experience more inner turbulence; boredom and stagnation make them irritable and quick to doubt their choices. The restlessness drives constant experimentation, but they should beware of chasing the next novelty to escape real problems."
+  },
+  "ISFP": {
+    "code": "ISFP",
+    "name": "Adventurer",
+    "tagline": "A gentle soul with an artist's eye",
+    "group": "explorers",
+    "population": 9,
+    "overview": [
+      "The Adventurer (ISFP) is quiet, gentle, and a true aesthete of everyday life. They have a natural sensitivity to color, sound, texture, and atmosphere, noticing beauty that others rush past. Rather than grand distant goals, they care about the authentic experience of this very moment.",
+      "They may seem easygoing, but they hold clear inner values: they know exactly what is true and kind—they simply rarely announce it. They dislike arguing or imposing on others, and conflict makes them want to slip away. Their best form of self-expression is often not words but work: a painting, a melody, a room arranged just so.",
+      "The Adventurer's strengths are a keen aesthetic sense, a sincere character, and hands-on creativity. Their growth edge is facing conflict and sustaining long-term goals: gentleness should not mean avoidance, and spontaneity travels further with a little planning. When they learn to speak their mind gently but firmly, their charm becomes complete."
+    ],
+    "strengths": ["Keen aesthetic and artistic sense", "Gentle, warm, and empathetic", "Deeply present in the moment", "Authentic and true to themselves", "Crafts beauty with their hands", "Easygoing and adaptable"],
+    "weaknesses": ["Avoids conflict, keeps thoughts inside", "Weak at long-term planning", "Easily swayed by others' moods", "Lacks self-push, prone to procrastination", "Extra sensitive to criticism"],
+    "careers": ["Designer", "Illustrator", "Photographer", "Chef", "Physical Therapist", "Fashion Designer", "Musician", "Veterinarian"],
+    "relationship": "In relationships, Adventurers are tender and devoted. They may not deliver dramatic confessions of love, but they remember the things you mention in passing and surprise you on an ordinary day. They need partners who respect their rhythm and space—pressure and blame only make them close the door. Their hearts are sensitive, and sharp criticism cuts deeper than you might think. Communicate gently, and their love will flow steady and long.",
+    "variantA": "Assertive (-A) Adventurers are more at ease with themselves, less swayed by other people's eyes, and quicker to decide. Their sensitivity remains—but it feeds their art instead of draining their confidence.",
+    "variantT": "Turbulent (-T) Adventurers are easily stirred by other people's emotions and opinions, often comparing themselves to others. That receptivity makes their creative work remarkably delicate, but they must learn to place sensitivity in their art rather than turn it into self-doubt."
+  },
+  "ESTP": {
+    "code": "ESTP",
+    "name": "Entrepreneur",
+    "tagline": "Action always outruns hesitation",
+    "group": "explorers",
+    "population": 4,
+    "overview": [
+      "The Entrepreneur (ESTP) is energetic, lightning-fast, and a true action-taker. While others are still weighing pros and cons, they are already in the middle of it—adjusting as they go is their favorite rhythm. Their relationship with risk is unusual: less fearless than genuinely thrilled by the unknown.",
+      "Their senses are remarkably sharp; they read micro-expressions and small on-site clues to gather what is really going on, making them natural negotiators and deadlock-breakers. Rules look more like suggestions to them, and their willingness to challenge convention often opens new paths where others see a wall. They are thoroughly practical and allergic to armchair theorizing—any theory that cannot solve the problem in front of them struggles to hold their attention.",
+      "The Entrepreneur's strengths are bold action, superb adaptability, and persuasive power; many opportunities are seized precisely because of their speed and nerve. Their growth edge is mastering slow: listening patiently, weighing consequences, and planning for the long run. When boldness gains a sense of proportion, they grow from clever risk-takers into true builders of ventures."
+    ],
+    "strengths": ["Fast and bold action-taker", "Quick, highly adaptable reflexes", "Sharp reader of people and situations", "Born negotiator and deadlock-breaker", "Thrives under pressure", "Pragmatic, efficient problem-solver"],
+    "weaknesses": ["Impatient with waiting and delays", "Impulsive, overlooks consequences", "Dismisses theory and planning", "Risk-hungry, loose with boundaries", "Struggles with long, dull goals"],
+    "careers": ["Entrepreneur", "Sales Manager", "Trader", "Sports Coach", "Police Officer", "Market Development Specialist", "ER Physician", "Project Manager"],
+    "relationship": "In relationships, Entrepreneurs are passionate and direct. They enjoy the chase, and they excel at surprises and keeping things fresh; love, for them, means doing and playing together—a spontaneous trip, a brand-new shared experience. Partners should know their tolerance for boredom is low, and the relationship needs a steady stream of novelty; commitment and deep emotional talks, meanwhile, are skills they must consciously practice. When they are willing to slow down for one person, that is their truest confession.",
+    "variantA": "Assertive (-A) Entrepreneurs are bolder and cooler under fire; failure is just data to them, and the bigger the stage, the more energized they become. They place big bets and can carry the outcomes—natural starters of games.",
+    "variantT": "Turbulent (-T) Entrepreneurs still move fast, but wins, losses, and other people's opinions weigh on them more. It makes them more willing to review and improve, yet their moods can swing after setbacks; they need to treat losses as tuition, not verdicts."
+  },
+  "ESFP": {
+    "code": "ESFP",
+    "name": "Entertainer",
+    "tagline": "Turns every day into a celebration",
+    "group": "explorers",
+    "population": 9,
+    "overview": [
+      "The Entertainer (ESFP) is warm and outgoing, carrying energy and laughter wherever they go. They love being surrounded by people—and are generous about handing the stage to someone who deserves it. They have a heartfelt love for the world's beauty: music, food, fashion, scenery.",
+      "They live in the present and know almost instinctively what is fun and moving about this moment. Decisions lean on concrete feelings rather than abstract reasoning, and their standard question is which option is more interesting. They resent being boxed in by rules, and a planner they write rarely survives three days. Yet they are also practical warm hearts: faced with a concrete difficulty, they roll up their sleeves on the spot.",
+      "The Entertainer's strengths are their charisma, warmth, and gift for turning ordinary days into celebrations. Their growth edge is making peace with the boring-but-important: budgets, plans, and difficult conversations do not vanish on their own. When they are willing to stay after the party ends and face these, joy upgrades from noise into genuine happiness."
+    ],
+    "strengths": ["Radiant, infectious enthusiasm", "Witty lifter of every gathering", "Perceptive about people's feelings", "Generous and loves to share", "Adaptable, savors the present", "Practical helper with real action"],
+    "weaknesses": ["Weak at planning, resents rules", "Impulsive spending and indulgence", "Avoids conflict and negativity", "Easily distracted, hard to focus", "Fears awkward silence and rejection"],
+    "careers": ["Actor", "Event Planner", "Marketing Specialist", "Tour Guide", "Stylist", "Restaurant Owner", "Preschool Teacher", "Musician"],
+    "relationship": "In relationships, Entertainers are romantic and generous; they turn dates into memories worth retelling and happily declare their love in front of everyone. They prize the texture of the here and now—one warm, real hug beats ten thousand distant promises. Partners should understand they are sensitive to dull stretches and need fresh shared experiences; gently help them face the serious talks no relationship can avoid. Their love is sincere and ardent, and it deserves an equally heartfelt answer.",
+    "variantA": "Assertive (-A) Entertainers are even more at ease in a crowd; an awkward silence or a criticism cannot wreck their mood. They use their performing gift to nourish themselves and those around them, not to barter for approval.",
+    "variantT": "Turbulent (-T) Entertainers watch the audience closely, and scattered applause genuinely saddens them. That attentiveness makes their performance more heartfelt and moving, but they also need to learn to like themselves when no spotlight is on."
+  }
+}

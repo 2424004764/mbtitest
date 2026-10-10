@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.wrangler/
+.zcode/
+*.local
+*.tsbuildinfo
+.DS_Store

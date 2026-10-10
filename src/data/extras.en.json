@@ -1,0 +1,258 @@
+{
+  "INTJ": {
+    "famous": [
+      { "name": "Elon Musk", "note": "Entrepreneur" },
+      { "name": "Isaac Newton", "note": "Physicist" },
+      { "name": "Friedrich Nietzsche", "note": "Philosopher" },
+      { "name": "Christopher Nolan", "note": "Film director" },
+      { "name": "James Cameron", "note": "Film director" },
+      { "name": "Augustus", "note": "Roman emperor" }
+    ],
+    "growth": [
+      "Practice “empathize first, solve later”: when someone vents, acknowledge their feelings before pointing out flaws or offering fixes.",
+      "Break big goals into two-week milestones and allow “good enough to ship” — fight perfectionism-driven delays.",
+      "Schedule one agenda-free social moment each week: no projects, no plans, just ask how the other person is doing.",
+      "Open criticism with one sentence of genuine acknowledgment before suggesting changes — the same advice will land far better."
+    ]
+  },
+  "INTP": {
+    "famous": [
+      { "name": "Albert Einstein", "note": "Physicist" },
+      { "name": "Charles Darwin", "note": "Biologist" },
+      { "name": "Bill Gates", "note": "Entrepreneur" },
+      { "name": "René Descartes", "note": "Philosopher" },
+      { "name": "Bertrand Russell", "note": "Philosopher" },
+      { "name": "Linus Torvalds", "note": "Programmer" }
+    ],
+    "growth": [
+      "Break analysis paralysis with the “what's the worst that can happen” question: most decisions cost less than endless deliberation.",
+      "Set a “done before perfect” bar: build a 60-percent working version, get feedback, then iterate instead of optimizing alone.",
+      "Hand bills, documents and checkups to calendars and automatic reminders so your memory is free for the questions you actually love.",
+      "Check in with friends regularly, even just “here's what I've been thinking about lately” — long silences quietly cool relationships."
+    ]
+  },
+  "ENTJ": {
+    "famous": [
+      { "name": "Steve Jobs", "note": "Entrepreneur" },
+      { "name": "Margaret Thatcher", "note": "British Prime Minister" },
+      { "name": "Napoleon Bonaparte", "note": "Emperor of France" },
+      { "name": "Alexander the Great", "note": "King of Macedon" },
+      { "name": "Gordon Ramsay", "note": "Chef and TV host" },
+      { "name": "Hannibal Barca", "note": "Carthaginian general" }
+    ],
+    "growth": [
+      "After asking a question in meetings, count to five before speaking — leaving room for quieter voices often surfaces key information.",
+      "Block half a day each week with no agenda for family and friends: no efficiency talk, no goals — practice treating people as ends, not resources.",
+      "Replace “why isn't this done” with “where are you stuck and what do you need” — questioning becomes curiosity, and execution speeds up.",
+      "Watch your body's fatigue signals and schedule real recovery after intense stretches — learn to tell high performance from burnout."
+    ]
+  },
+  "ENTP": {
+    "famous": [
+      { "name": "Thomas Edison", "note": "Inventor" },
+      { "name": "Leonardo da Vinci", "note": "Artist and inventor" },
+      { "name": "Socrates", "note": "Philosopher" },
+      { "name": "Richard Feynman", "note": "Physicist" },
+      { "name": "Mark Twain", "note": "Writer" },
+      { "name": "Winston Churchill", "note": "British Prime Minister" }
+    ],
+    "growth": [
+      "Keep only one core project per quarter; park other ideas in a backlog list so new sparks don't dilute your focus.",
+      "Before rebutting, ask whether the point actually changes the outcome — if not, acknowledge the person's feelings and save the debate.",
+      "Attach routine chores like expenses, checkups and renewals to fixed schedules or automation, letting systems cover your weak spot.",
+      "Set public deadlines for important projects and find an accountability partner — external pressure helps you push through the boring middle."
+    ]
+  },
+  "INFJ": {
+    "famous": [
+      { "name": "Carl Jung", "note": "Psychologist" },
+      { "name": "Leo Tolstoy", "note": "Novelist" },
+      { "name": "Plato", "note": "Philosopher" },
+      { "name": "Dante Alighieri", "note": "Poet" },
+      { "name": "Mother Teresa", "note": "Humanitarian" },
+      { "name": "Charlotte Brontë", "note": "Novelist" }
+    ],
+    "growth": [
+      "Reserve fixed alone-time to recharge each week and tell others in advance — treat recovery as real work, not an afterthought.",
+      "Practice voicing complaints as they arise with “I feel... I'd like...” instead of storing them up until you slam the door.",
+      "Break big ideals into completable small steps and record each win, countering the loop of “reality never matches the vision”.",
+      "Share your real thoughts regularly with two or three trusted people — practice being seen and take off the forever-reasonable mask."
+    ]
+  },
+  "INFP": {
+    "famous": [
+      { "name": "William Shakespeare", "note": "Playwright" },
+      { "name": "J.R.R. Tolkien", "note": "Novelist" },
+      { "name": "Hans Christian Andersen", "note": "Fairy-tale writer" },
+      { "name": "Vincent van Gogh", "note": "Painter" },
+      { "name": "Franz Kafka", "note": "Novelist" },
+      { "name": "Virginia Woolf", "note": "Novelist" }
+    ],
+    "growth": [
+      "Set a daily 25-minute minimum quota for creative work and important tasks — small consistent action offsets daydream drift.",
+      "When criticized, write it down and respond 24 hours later; most feedback turns out to be information, not attack.",
+      "Practice saying “I disagree” in low-stakes situations — conflict rarely destroys relationships, but avoidance does.",
+      "Manage deadlines and bills with lists and reminders, saving your limited emotional energy for what truly matters."
+    ]
+  },
+  "ENFJ": {
+    "famous": [
+      { "name": "Martin Luther King Jr.", "note": "Civil rights leader" },
+      { "name": "Nelson Mandela", "note": "Former President of South Africa" },
+      { "name": "Barack Obama", "note": "Former U.S. President" },
+      { "name": "Oprah Winfrey", "note": "TV host" },
+      { "name": "Pythagoras", "note": "Mathematician" },
+      { "name": "Victor Hugo", "note": "Writer" }
+    ],
+    "growth": [
+      "Write down three things each day done purely for yourself — practice putting your own care above caring for others.",
+      "When someone asks for help, first ask “do you want advice or a listener” — don't adopt their problems as your own burden.",
+      "Put checkups, real meals and other self-care into your calendar and honor them like commitments, before burning out for others.",
+      "Practice saying “not this time” starting with low-stakes requests — you'll find refusal doesn't break relationships."
+    ]
+  },
+  "ENFP": {
+    "famous": [
+      { "name": "Robin Williams", "note": "Actor and comedian" },
+      { "name": "Walt Disney", "note": "Animator and entrepreneur" },
+      { "name": "Oscar Wilde", "note": "Writer" },
+      { "name": "Charles Dickens", "note": "Novelist" },
+      { "name": "Lord Byron", "note": "Poet" },
+      { "name": "Li Bai", "note": "Poet" }
+    ],
+    "growth": [
+      "Filter new ideas with a “three priorities per week” rule; log the rest in a note and revisit at month's end before starting anything.",
+      "Slice long goals into tasks with visible results within three days and share your progress — instant feedback carries you through the middle slump.",
+      "Impose a 24-hour cooling-off before saying yes and check your existing commitments, so enthusiasm doesn't turn into broken promises.",
+      "Keep half a day each week free of socializing and stimulation — walk, sit alone, daydream, and let ideas settle in the quiet."
+    ]
+  },
+  "ISTJ": {
+    "famous": [
+      { "name": "George Washington", "note": "First President of the United States" },
+      { "name": "Angela Merkel", "note": "Former Chancellor of Germany" },
+      { "name": "Warren Buffett", "note": "Investor" },
+      { "name": "Jeff Bezos", "note": "Entrepreneur" },
+      { "name": "Florence Nightingale", "note": "Founder of modern nursing" },
+      { "name": "Harry S. Truman", "note": "President of the United States" }
+    ],
+    "growth": [
+      "Try one small rule-breaking thing each quarter — a new route, a new method — and turn controlled experimentation into a habit.",
+      "When facing change, ask “what's the worst case and how would I respond” — use your risk-management strength instead of reflexive resistance.",
+      "When loved ones are down, be present and listen before jumping to solutions — your company is itself the support.",
+      "Separate “my responsibility” from “uncontrollable factors” when reviewing setbacks — file the rest and move on instead of blaming yourself for everything."
+    ]
+  },
+  "ISFJ": {
+    "famous": [
+      { "name": "Kate Middleton", "note": "Princess of Wales" },
+      { "name": "Rosa Parks", "note": "Civil rights activist" },
+      { "name": "Queen Elizabeth II", "note": "Queen of the United Kingdom" },
+      { "name": "Rafael Nadal", "note": "Tennis player" },
+      { "name": "Anthony Hopkins", "note": "Actor" },
+      { "name": "Céline Dion", "note": "Singer" }
+    ],
+    "growth": [
+      "Reply “let me check my schedule first” to requests, buying time to weigh them instead of reflexively saying yes.",
+      "Spend two hours a week on something you genuinely enjoy, and protect it like a promise to others — write it into your calendar.",
+      "Voice grievances the same day, calmly stating facts and feelings — don't simmer until you explode or quietly drift away.",
+      "Expand your comfort zone with low-risk changes: try a new restaurant, learn a small skill, take a new route."
+    ]
+  },
+  "ESTJ": {
+    "famous": [
+      { "name": "Cristiano Ronaldo", "note": "Footballer" },
+      { "name": "Dong Mingzhu", "note": "Business executive" },
+      { "name": "John Adams", "note": "Second President of the United States" },
+      { "name": "Henry Ford", "note": "Entrepreneur" },
+      { "name": "Emma Watson", "note": "Actress" },
+      { "name": "Alexander Hamilton", "note": "Founding father of the United States" }
+    ],
+    "growth": [
+      "Start feedback by naming one thing the person did right — turn correction from “being judged” into “being guided”.",
+      "Explicitly delegate some decisions and accept that different methods can still hit the target — you save energy and others grow bolder.",
+      "When family vents, remind yourself they need a listener, not a verdict — empathize first, then discuss solutions.",
+      "Set rules for after-hours time: no email, no work talk — treat rest as an investment in long-term performance."
+    ]
+  },
+  "ESFJ": {
+    "famous": [
+      { "name": "Taylor Swift", "note": "Singer" },
+      { "name": "Bill Clinton", "note": "Former U.S. President" },
+      { "name": "Jennifer Aniston", "note": "Actress" },
+      { "name": "Roger Federer", "note": "Tennis player" },
+      { "name": "Adele", "note": "Singer" },
+      { "name": "Sam Walton", "note": "Entrepreneur" }
+    ],
+    "growth": [
+      "Practice dissent with “I see it a bit differently” and say no gently but firmly — relationships are sturdier than you fear.",
+      "Ask yourself “what do I need right now” daily, and redirect some of the energy spent on others back to yourself.",
+      "Check others' opinions less often; review the values you personally endorse and build standards that don't depend on approval.",
+      "When conflict arises, resist smoothing it over instantly — clarify what each person truly needs; short-term discomfort buys long-term trust."
+    ]
+  },
+  "ISTP": {
+    "famous": [
+      { "name": "Clint Eastwood", "note": "Actor and director" },
+      { "name": "Bruce Lee", "note": "Martial artist and actor" },
+      { "name": "Michael Jordan", "note": "Basketball player" },
+      { "name": "Tiger Woods", "note": "Golfer" },
+      { "name": "Bear Grylls", "note": "Explorer and TV host" },
+      { "name": "Kimi Räikkönen", "note": "Formula One driver" }
+    ],
+    "growth": [
+      "Proactively update people you care about once a week — a small fixed habit offsets the distance of “no news means all's fine”.",
+      "Make pre-adventure safety checks a ritual: gear, backup plan, exit point — being careful and being bold are not opposites.",
+      "Write out long-term pros and cons before major decisions — practice choosing for your five-years-later self, not just what's smooth today.",
+      "Try naming emotions in one line, like “I'm a bit annoyed right now” — it's easier to understand than silently leaving."
+    ]
+  },
+  "ISFP": {
+    "famous": [
+      { "name": "Michael Jackson", "note": "Singer and dancer" },
+      { "name": "Frédéric Chopin", "note": "Composer" },
+      { "name": "Lionel Messi", "note": "Footballer" },
+      { "name": "Jay Chou", "note": "Singer-songwriter" },
+      { "name": "Bob Dylan", "note": "Singer-songwriter" },
+      { "name": "Frida Kahlo", "note": "Painter" }
+    ],
+    "growth": [
+      "When something feels off, practice saying “let me think about it” on the spot — give yourself space instead of bottling it up.",
+      "Put things you want to do into your calendar with reminders — a small, steady rhythm counters go-with-the-flow drift.",
+      "Set a weekly slot to sort out finances and to-dos, turning wishes like travel or creative projects into concrete plans and dates.",
+      "Show your work and ideas starting with a trusted circle — you'll find expression brings more opportunities than criticism."
+    ]
+  },
+  "ESTP": {
+    "famous": [
+      { "name": "Madonna", "note": "Singer" },
+      { "name": "John F. Kennedy", "note": "President of the United States" },
+      { "name": "Ernest Hemingway", "note": "Novelist" },
+      { "name": "George S. Patton", "note": "General" },
+      { "name": "Theodore Roosevelt", "note": "President of the United States" },
+      { "name": "Bruce Willis", "note": "Actor" }
+    ],
+    "growth": [
+      "Enforce a 48-hour wait on big spends and major decisions — channel the impulse into research, then act.",
+      "Schedule tedious but critical tasks in your peak-energy hours, or delegate them outright to tools and people.",
+      "Spend two hours each quarter reviewing long-term accounts like finances and health — add a safety net to an exciting life.",
+      "Consider timing and the other person's state before speaking bluntly — wrapping honesty in tact doubles its effect."
+    ]
+  },
+  "ESFP": {
+    "famous": [
+      { "name": "Elvis Presley", "note": "Singer" },
+      { "name": "Marilyn Monroe", "note": "Actress" },
+      { "name": "Muhammad Ali", "note": "Boxer" },
+      { "name": "Jackie Chan", "note": "Actor and director" },
+      { "name": "Usain Bolt", "note": "Sprinter" },
+      { "name": "Neymar Jr.", "note": "Footballer" }
+    ],
+    "growth": [
+      "Keep a minimal structure under the freedom: three fixed small must-dos each week, then improvise the rest as you please.",
+      "Break big events into dated steps using backward planning with reminders — turn “I'll deal with it later” into “do a bit now”.",
+      "When feeling low, don't instantly cover it with parties and spending — write it down or talk deeply with someone you trust.",
+      "Review your spending monthly, separating purchases that bring joy from impulsive regrets — spend with more confidence."
+    ]
+  }
+}

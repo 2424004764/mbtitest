@@ -1,0 +1,10 @@
+# Cloudflare Pages project config (configuration-as-code).
+# KV binding for the anonymous, opt-in type statistics (functions/api/stats.js).
+# Local `wrangler pages dev` simulates this binding automatically.
+name = "mbtitest"
+pages_build_output_dir = "dist"
+compatibility_date = "2025-01-01"
+
+[[kv_namespaces]]
+binding = "TYPE_STATS"
+id = "bff46664c2444df19e94320b3a3c03b2"

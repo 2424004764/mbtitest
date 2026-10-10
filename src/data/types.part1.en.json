@@ -1,0 +1,146 @@
+{
+  "INTJ": {
+    "code": "INTJ",
+    "name": "Architect",
+    "tagline": "A strategic mind always three steps ahead",
+    "group": "analysts",
+    "population": 2,
+    "overview": [
+      "Architects (INTJ) are the great strategists of the sixteen personality types. Gifted with an instinct for underlying systems, they break complex problems into clean frameworks and reason their way toward the best possible answer. To them, the world resembles a chessboard that can always be optimized further.",
+      "Fiercely independent and endlessly curious, Architects dive into a subject with almost punishing depth once it captures their interest. Behind a quiet exterior, their minds rarely stop: they rehearse scenarios, weigh alternatives, and refine plans long before anyone else sees the point.",
+      "Architects hold themselves — and quietly, everyone else — to high standards. 'Good enough' is not in their vocabulary, and they resist being swayed by emotion or fashion. Once committed to a long-term goal, they display remarkable discipline and stamina."
+    ],
+    "strengths": ["Strategic, long-range planning", "Independent and skeptical of authority", "Rapid, self-driven learning", "Objective decisions free of emotional noise", "Relentless follow-through", "Sharp insight into complex systems"],
+    "weaknesses": ["Perfectionism that turns inward as harsh self-criticism", "Can come across as arrogant or aloof", "Struggles with emotionally attuned communication", "Overconfidence may crowd out others' input", "Very low tolerance for inefficiency and chaos"],
+    "careers": ["Research scientist", "Software engineer / architect", "Investment analyst", "Strategy consultant", "Surgeon", "Lawyer", "Product manager", "University professor"],
+    "relationship": "In love, Architects are selective and deeply loyal. They rarely rush into a relationship, but once committed they treat it like a meaningful project — solving problems, planning a shared future, and showing devotion through competence rather than sweet words. Partners should respect their need for solitude and their occasionally overly logical communication style.",
+    "variantA": "Assertive Architects (-A) are calmer and more self-assured. Unshaken by outside opinion, they make bold calls and keep pursuing their goals at their own steady pace, even after setbacks.",
+    "variantT": "Turbulent Architects (-T) hold themselves to even higher standards and care more about feedback. The pressure sharpens their work but can spiral into self-doubt, so learning to make peace with imperfection is part of their growth."
+  },
+  "INTP": {
+    "code": "INTP",
+    "name": "Logician",
+    "tagline": "An endless expedition through ideas",
+    "group": "analysts",
+    "population": 3,
+    "overview": [
+      "Logicians (INTP) are the purest thinkers of the sixteen personality types. Driven by insatiable curiosity, they live to understand how things really work, and the pleasure of knowing outranks fame or fortune. Hand them a stubborn question and a quiet afternoon, and they are perfectly content.",
+      "Open-minded yet rigorous, they question every assumption — including their own conclusions. Their thinking leaps nimbly from topic to topic, which makes them fascinating conversationalists one day and absent-minded professors the next. Rigid rules and elaborate social rituals tend to strike them as incomprehensible at best.",
+      "Their greatest gifts are analytical clarity, objectivity, and a creativity that spots connections others miss. A Logician's life work is turning scattered insight into finished reality. Along the way, most discover that feelings — their own included — deserve as much respect as logic."
+    ],
+    "strengths": ["Precise, deeply analytical thinking", "Insatiable curiosity for new ideas", "Objective and fact-driven", "Open-minded, slow to judge", "Original, unconventional creativity", "Capable of deep, immersive focus"],
+    "weaknesses": ["More thinking than doing", "Prone to analysis paralysis", "Impatient with practical details", "Can seem distant or distracted socially", "Uneasy with emotion, can seem cold"],
+    "careers": ["Software developer", "Data scientist", "University researcher / professor", "Systems analyst", "Philosopher / academic researcher", "Actuary", "Cybersecurity specialist", "Technical writer"],
+    "relationship": "Logicians fall in love through the mind first. They are drawn to partners who enjoy deep, meandering conversation and don't demand constant social performance. Their affection shows up as honesty, genuine curiosity about your ideas, and quietly reorganizing their life around you. Partners should be patient with their emotional awkwardness and give them room to think.",
+    "variantA": "Assertive Logicians (-A) are more settled in themselves and their conclusions. Criticism slides off them easily, and they can debate an idea all night without taking any of it personally.",
+    "variantT": "Turbulent Logicians (-T) keep re-examining their theories — and doubting themselves. The restlessness sharpens their thinking, but feeling misunderstood can drag them into quiet burnout."
+  },
+  "ENTJ": {
+    "code": "ENTJ",
+    "name": "Commander",
+    "tagline": "The commander who turns vision into reality",
+    "group": "analysts",
+    "population": 2,
+    "overview": [
+      "Commanders (ENTJ) are born leaders with an unusual appetite for goals. Where others see obstacles, they see a plan waiting to be executed. Confident, decisive, and allergic to stagnation, they naturally end up in charge — often before anyone formally asks.",
+      "Their minds work like a strategist's war room: define the objective, mobilize the resources, clear away whatever blocks the path. They communicate in straight lines and expect the same in return, which some find refreshing and others find bruising. Titles and seniority earn little of their respect; genuine competence earns all of it.",
+      "At their best, Commanders build teams, companies, and institutions that outlast them. Their growth edge is patience: remembering that people run on feelings, not just logic. A rested leader, they eventually learn, outperforms an exhausted one."
+    ],
+    "strengths": ["Natural leadership and commanding presence", "Decisive, relentless execution", "Courage to take calculated risks", "Strategic vision and resourcefulness", "Candid, efficient communicator", "Thrives under pressure"],
+    "weaknesses": ["Dominant and slow to compromise", "Impatient with slower processes", "Tune-deaf to emotional needs", "Need for control over everything", "Workaholic tendencies, weak life balance"],
+    "careers": ["Executive / CEO", "Entrepreneur", "Investment banker", "Management consultant", "Lawyer", "Program director", "Venture capitalist", "Sales director"],
+    "relationship": "In relationships, Commanders are direct and loyal, and once they choose you they invest completely. They show love by building a future: planning together, providing, and fixing whatever breaks along the way. Don't expect constant mushy sentiment — state your needs plainly, because hints get filed under 'inefficient.' Once their promise is given, though, it rarely wavers.",
+    "variantA": "Assertive Commanders (-A) carry nearly unshakable confidence. Setbacks are data, not wounds, and they press ahead with barely a change in pulse.",
+    "variantT": "Turbulent Commanders (-T) are hungrier to prove themselves and harder on themselves too. Criticism stings more than they admit, which can drive extraordinary achievement — or drag them toward burnout if they never rest."
+  },
+  "ENTP": {
+    "code": "ENTP",
+    "name": "Debater",
+    "tagline": "The devil's advocate with a thousand ideas",
+    "group": "analysts",
+    "population": 3,
+    "overview": [
+      "Debaters (ENTP) are the quickest minds of the sixteen personality types. They think out loud, argue for sport, and light up at the words 'that's impossible.' To them, an idea is a plaything — something to poke, flip over, and recombine into something better.",
+      "Their interests range wildly: law on Monday, physics on Wednesday, a startup idea by the weekend. Routine is their kryptonite; the moment a task turns repetitive, their attention files for divorce. What looks like arguing is often real thinking — they test truth by colliding it with resistance.",
+      "At their best, Debaters are innovators who break stale rules and charm the room while doing it. Their growth path is follow-through: picking one hill and actually climbing it. Letting the occasional small argument go unclaimed makes life lighter, too."
+    ],
+    "strengths": ["Quick thinking, endless idea flow", "Persuasive and articulate", "Bold challenger of convention", "Adaptable in fast-changing situations", "Confident, playful charisma", "Sees possibilities others overlook"],
+    "weaknesses": ["Argumentative, loves a good fight", "Loses patience and focus quickly", "Resists routine, struggles to persist", "Sharp tongue can wound unnoticed", "Big ideas, thin follow-through"],
+    "careers": ["Entrepreneur", "Product manager", "Marketing strategist", "Lawyer", "Venture capitalist", "Journalist / commentator", "Creative director (advertising)", "Business trainer / consultant"],
+    "relationship": "Dating a Debater is never boring. They bring spontaneity, humor, and a partner-in-crime energy, and they show love by pulling you into their brainstorm of a life. Partners need a thick skin for playful banter and some patience with their allergy to routine. It also helps to have the confidence to call a halt when the teasing crosses a line.",
+    "variantA": "Assertive Debaters (-A) toss out ideas with zero hesitation, and rejection rolls off them like rain. The swagger opens many doors — and occasionally a mouth they should have kept shut.",
+    "variantT": "Turbulent Debaters (-T) care more about outcomes than they let on. They push harder to prove their ideas — and themselves — which sharpens the work but genuinely stings when the audience walks away."
+  },
+  "INFJ": {
+    "code": "INFJ",
+    "name": "Advocate",
+    "tagline": "The quiet idealist who sees through you",
+    "group": "diplomats",
+    "population": 2,
+    "overview": [
+      "Advocates (INFJ) are the rarest — and likely the most misunderstood — of the sixteen types. Beneath a calm surface runs a vivid inner life: deeply held ideals, an intuitive read on people, and a quiet determination to leave the world better than they found it. Small in number, they often leave an outsized mark.",
+      "They pick up on what others feel — and often on what hasn't been said out loud — which makes them gifted confidants and counselors. Yet they are no pushovers: the same person who comforts a friend at midnight will march toward a distant vision for years. Crowds drain them, but one meaningful conversation can power them for days.",
+      "Their strengths are insight, empathy, and moral clarity. Their growth work is just as clear: stop giving until they're empty, and voice their own needs. And sometimes, let 'good enough' truly be good enough."
+    ],
+    "strengths": ["Rare insight into people", "Idealism anchored in commitment", "Creative and expressive in words", "Deep, long-range perspective", "Gentle yet unbreakable principles", "Sincere, generous-hearted altruism"],
+    "weaknesses": ["Over-gives until burned out", "Perfectionism aimed at themselves", "Highly sensitive, prone to overthinking", "Avoids conflict, swallows real opinions", "Very private, hard to truly know"],
+    "careers": ["Psychologist / psychotherapist", "Writer / author", "Teacher / educator", "HR development specialist", "Nonprofit organization leader", "Illustrator / designer", "Psychiatrist", "Career counselor"],
+    "relationship": "Advocates can't be bothered with casual flings. They long for a soul-deep connection, and once committed they love with an almost telepathic attentiveness — remembering small things you mentioned once. Partners should repay that depth with honesty and consistency, gently draw out what they're bottling up, and take their ideals seriously instead of teasing them for 'thinking too much.'",
+    "variantA": "Assertive Advocates (-A) hold their convictions with steadier hands. Criticism and conflict still register, but they regain their footing quickly and keep walking their own path.",
+    "variantT": "Turbulent Advocates (-T) feel every ripple of discord and hold themselves to impossible standards. The sensitivity deepens their insight, but they must watch for spirals of self-doubt."
+  },
+  "INFP": {
+    "code": "INFP",
+    "name": "Mediator",
+    "tagline": "A gentle dreamer with a fierce heart",
+    "group": "diplomats",
+    "population": 4,
+    "overview": [
+      "Mediators (INFP) are quiet idealists with rich inner worlds. They measure life not in trophies but in meaning: Is this true? Is this kind? Does it matter? Beneath the soft-spoken manner sits a value system as unyielding as bedrock.",
+      "Imagination is their native language — they daydream in detail, fall for ideas headfirst, and often say through writing, art, or music what they can't say out loud. They feel other people's pain reflexively, defend the underdog, and would rather lose an argument than betray a friend. Conflict doesn't just bore them; it genuinely hurts.",
+      "Their gifts are creativity, authenticity, and a rare capacity for unconditional caring. Their growing edges are practical: turning dreams into deadlines and thickening their skin. They also need to learn that taking care of themselves isn't a betrayal of anyone."
+    ],
+    "strengths": ["Vivid, exceptional imagination", "Authentic, anchored in core values", "Deep empathy for everyone", "Open-minded and accepting", "Innate feel for art and beauty", "Quiet, persistent devotion to ideals"],
+    "weaknesses": ["Idealism can drift from reality", "Takes things too personally", "Avoids conflict and pressure", "Disorganized, prone to procrastination", "Swings between harsh self-criticism and avoidance"],
+    "careers": ["Writer / poet", "Illustrator / graphic designer", "Therapist / counselor", "Musician / composer", "Librarian / editor", "Social worker", "Teacher (literature / arts)", "UX researcher / copywriter"],
+    "relationship": "Mediators are romantics in the best sense: they want a love that feels like a favorite novel. They express affection through words, letters, and small gestures tuned precisely to you. Partners should offer steady reassurance and speak gently in disagreements. Respect their need for solitude to recharge, too — an emptied-out Mediator has nothing left to give.",
+    "variantA": "Assertive Mediators (-A) guard their ideals with calmer nerves. Self-doubt passes quickly, and they can share their creative work without bracing for a wound.",
+    "variantT": "Turbulent Mediators (-T) ride higher emotional waves. Comparison and second-guessing feed both their art and their anxiety, so learning self-acceptance is their lifelong homework."
+  },
+  "ENFJ": {
+    "code": "ENFJ",
+    "name": "Protagonist",
+    "tagline": "The leader who grows people",
+    "group": "diplomats",
+    "population": 3,
+    "overview": [
+      "Protagonists (ENFJ) are natural leaders who lead with heart as much as head. They read a room instantly, sense who is struggling, and can't quite help trying to lift them. Where others see a crowd, they see individuals whose potential is waiting to be coaxed out.",
+      "Warm yet remarkably organized, they combine genuine empathy with the ability to plan, mobilize, and follow through — a rare mix. They remember your birthday, your boss's name, and the presentation you're nervous about. Say 'someone should do something about this,' and they're usually already doing it.",
+      "Their sense of purpose runs through people: teaching, mentoring, harmonizing, inspiring. The shadow side is self-neglect — Protagonists can give so generously that they forget they're a person with needs too. Learning to receive, and to say no, is their lifelong assignment."
+    ],
+    "strengths": ["Charismatic natural leadership", "Reads emotions and potential in others", "Devoted to others' growth", "Gifted communicator and peacemaker", "Well-organized and action-oriented", "Deeply responsible and dependable"],
+    "weaknesses": ["Overextends, ignores own needs", "Overly dependent on approval", "Idealizes relationships, easy to disappoint", "Struggles to set boundaries or refuse", "Sensitive to criticism"],
+    "careers": ["Teacher / corporate trainer", "HR manager", "Counselor / psychologist", "PR / communications director", "Nonprofit leader", "Sales / customer success manager", "Coach / facilitator", "Healthcare administrator"],
+    "relationship": "Protagonists love loudly and completely. They remember every anniversary, cheer your goals harder than you do, and quietly fix things before you knew they were broken. Partners should understand two things: their generosity can hide real exhaustion, and criticism lands heavier than their brave smile suggests. Honesty is always welcome — just wrap it in kindness.",
+    "variantA": "Assertive Protagonists (-A) lead with steadier confidence. They can absorb criticism without collapsing and keep giving without losing themselves in the process.",
+    "variantT": "Turbulent Protagonists (-T) are even more attuned to how others feel — and to how others feel about them. The vigilance makes them exceptionally caring, and quietly self-critical."
+  },
+  "ENFP": {
+    "code": "ENFP",
+    "name": "Campaigner",
+    "tagline": "A spark chasing every possibility",
+    "group": "diplomats",
+    "population": 8,
+    "overview": [
+      "Campaigners (ENFP) are bursts of human sunshine with a serious case of possibility-fever. Curious about everyone and everything, they collect people, ideas, and half-formed plans with equal delight. Life, to them, is meant to be felt — and there is so much of it to feel.",
+      "Their minds leap by association: a chat about coffee becomes a discussion of meaning, art, and that thing they read at 2 a.m. They're warm, funny, and disarmingly genuine, which is why strangers tell them their life stories. But cage them in routine and watch the light dim — rigid structure feels to them like a sweater three sizes too small.",
+      "At their best, Campaigners uplift everyone around them and turn 'crazy idea' into reality. Their growth work is focus and follow-through: choosing a few things and finishing them. They also benefit from sitting with their feelings instead of outrunning them."
+    ],
+    "strengths": ["Infectious, radiant enthusiasm", "Curious and endlessly creative", "Instant rapport with anyone", "Reads emotions with real empathy", "Adapts easily to change", "Optimistic and inspiring"],
+    "weaknesses": ["Struggles to focus or finish", "Allergic to routine and order", "Mood swings, prone to anxiety", "Craves approval from others", "Too many ideas, hard to choose"],
+    "careers": ["Creative director (advertising)", "Journalist / TV host", "PR / marketing manager", "Actor / performing artist", "Product manager", "UX researcher", "Event planner", "Counselor / life coach"],
+    "relationship": "Campaigners love at full wattage — spontaneous trips, heartfelt texts at odd hours, and a genuine fascination with who you really are. They show love by pulling you into adventures and by truly seeing you. Partners should offer plenty of reassurance and freedom, and patience with their shifting moods. What looks like chaos is often a heart processing out loud.",
+    "variantA": "Assertive Campaigners (-A) are sunny and self-assured; rejection bounces off them, and their optimism survives contact with reality.",
+    "variantT": "Turbulent Campaigners (-T) ride stronger emotional currents and work harder for approval. The same sensitivity that fuels their warmth can churn into restlessness in quiet moments."
+  }
+}

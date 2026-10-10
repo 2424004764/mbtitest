@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+# /result renders a user's personal scorecard — no indexable content.
+Disallow: /result
+
+Sitemap: https://mbtitest.fologde.com/sitemap.xml

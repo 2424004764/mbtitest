@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "name": "The Big Five Personality Test",
+    "tagline": "The most widely used personality model in psychology",
+    "description": "30 questions, about 5 minutes, measuring five core traits",
+    "minutes": 5
+  },
+  "questions": [
+    { "id": 1, "text": "I often come up with unusual ideas and love letting my imagination run wild.", "scale": "openness", "dir": 1 },
+    { "id": 2, "text": "I like to plan ahead and keep my tasks neatly organized.", "scale": "conscientiousness", "dir": 1 },
+    { "id": 3, "text": "At lively parties, I'd rather stay quietly on the sidelines.", "scale": "extraversion", "dir": -1 },
+    { "id": 4, "text": "I believe most people are well-intentioned at heart.", "scale": "agreeableness", "dir": 1 },
+    { "id": 5, "text": "I often worry about things that haven't happened yet.", "scale": "neuroticism", "dir": 1 },
+    { "id": 6, "text": "I prefer familiar, reliable methods over trying new approaches.", "scale": "openness", "dir": -1 },
+    { "id": 7, "text": "When people entrust me with something, I get it done promptly and reliably.", "scale": "conscientiousness", "dir": 1 },
+    { "id": 8, "text": "I can strike up a conversation naturally with someone I've just met.", "scale": "extraversion", "dir": 1 },
+    { "id": 9, "text": "When I argue with someone, I rarely give an inch.", "scale": "agreeableness", "dir": -1 },
+    { "id": 10, "text": "I get irritated easily, even over small things.", "scale": "neuroticism", "dir": 1 },
+    { "id": 11, "text": "I'm easily and deeply moved by art, music, or dance.", "scale": "openness", "dir": 1 },
+    { "id": 12, "text": "My desk and room are often in a complete mess.", "scale": "conscientiousness", "dir": -1 },
+    { "id": 13, "text": "People around me often say I seem full of energy.", "scale": "extraversion", "dir": 1 },
+    { "id": 14, "text": "When I see someone in a tough spot, I genuinely want to lend a hand.", "scale": "agreeableness", "dir": 1 },
+    { "id": 15, "text": "I'm emotionally steady and rarely have big mood swings.", "scale": "neuroticism", "dir": -1 },
+    { "id": 16, "text": "I'm curious about a wide range of subjects and enjoy mulling over abstract ideas.", "scale": "openness", "dir": 1 },
+    { "id": 17, "text": "I can resist immediate temptations for the sake of my long-term goals.", "scale": "conscientiousness", "dir": 1 },
+    { "id": 18, "text": "In group discussions, I'd rather listen than jump in to speak.", "scale": "extraversion", "dir": -1 },
+    { "id": 19, "text": "I prefer working with people to competing against them.", "scale": "agreeableness", "dir": 1 },
+    { "id": 20, "text": "Under heavy pressure, I easily feel overwhelmed.", "scale": "neuroticism", "dir": 1 },
+    { "id": 21, "text": "When it comes to art and culture, I can't usually muster much interest.", "scale": "openness", "dir": -1 },
+    { "id": 22, "text": "I like to see things through to the end and hate leaving them half-done.", "scale": "conscientiousness", "dir": 1 },
+    { "id": 23, "text": "When a problem comes up, I step forward and take the lead.", "scale": "extraversion", "dir": 1 },
+    { "id": 24, "text": "I can be picky about other people's faults and shortcomings.", "scale": "agreeableness", "dir": -1 },
+    { "id": 25, "text": "My mood often takes a downturn for no apparent reason.", "scale": "neuroticism", "dir": 1 },
+    { "id": 26, "text": "I enjoy exploring unfamiliar viewpoints even when I don't agree with them.", "scale": "openness", "dir": 1 },
+    { "id": 27, "text": "I often put things off until the very last minute.", "scale": "conscientiousness", "dir": -1 },
+    { "id": 28, "text": "Being around a big group of people leaves me feeling energized.", "scale": "extraversion", "dir": 1 },
+    { "id": 29, "text": "I don't like boasting about my achievements in front of others.", "scale": "agreeableness", "dir": 1 },
+    { "id": 30, "text": "Even when things go badly, I manage to stay calm.", "scale": "neuroticism", "dir": -1 }
+  ],
+  "scales": {
+    "openness": {
+      "name": "Openness",
+      "low": "You prefer what is familiar, concrete, and time-tested, and you take a practical approach to life. Novel ideas hold little appeal compared with experience and common sense. This makes you steady and grounded, though in fast-changing environments you may need to push yourself to embrace the new.",
+      "mid": "You strike a balance between routine and novelty: willing to try new things, but never chasing every trend. Faced with the unfamiliar, you weigh it first and then act.",
+      "high": "Curious and imaginative, you gravitate toward art, abstract ideas, and unconventional thinking. You enjoy questioning conventions and are easily moved by beauty and creativity. Keep that openness alive — just be careful not to spread your interests too thin."
+    },
+    "conscientiousness": {
+      "name": "Conscientiousness",
+      "low": "You go with the flow and dislike being boxed in by plans and rules; sometimes you procrastinate or overlook details. Your flexibility is a real strength, but for long-term commitments you may need external reminders and good habits to stay on track.",
+      "mid": "You shift comfortably between discipline and ease: serious about what matters, relaxed about everyday life. Reliable most of the time, occasionally scattered.",
+      "high": "Self-disciplined, organized, and true to your word, you finish what you start and are the person others count on. With a clear sense of direction and drive, you usually turn plans into results. Just don't be too hard on yourself — allow yourself to rest now and then."
+    },
+    "extraversion": {
+      "name": "Extraversion",
+      "low": "Quiet and reserved, you cherish time alone or deep conversations with a few people; too much socializing drains you. You tend to watch before you act, doing much of your thinking in your inner world. That's not a flaw — depth and focus are where your power lies.",
+      "mid": "Your energy sits somewhere between solitude and company: you can enjoy a lively crowd and still need time alone to recharge. You adapt to the setting and feel at ease in both.",
+      "high": "Warm and outgoing, you thrive on human connection and come alive in lively settings. You speak up readily, take initiative easily, and make new friends without effort. Remember to leave some room for solitude and reflection."
+    },
+    "agreeableness": {
+      "name": "Agreeableness",
+      "low": "You are direct and pragmatic, leading with facts and logic rather than a need to be liked. This serves you well in negotiations and tough calls, but coming on too strong can strain relationships — softening your stance now and then goes a long way.",
+      "mid": "You combine empathy with backbone: happy to cooperate, yet unwilling to cave on matters of principle. You find your balance between kindness and candor.",
+      "high": "Sincere, considerate, and cooperative, you trust and help others easily, and friends find you warm and easy to be around. You value harmony and often put others' needs before your own. Remember to look after yours as well — kindness works best with boundaries."
+    },
+    "neuroticism": {
+      "name": "Neuroticism",
+      "low": "Emotionally steady and resilient under pressure, you regain your calm quickly after setbacks and are rarely dogged by anxiety or low moods. That composure is a genuine psychological asset — just don't let it blind you to real stress signals.",
+      "mid": "Your moods are mostly steady, with occasional ups and downs you can manage on your own. You get tense under heavy pressure but rarely lose control.",
+      "high": "You feel emotions intensely and are prone to anxiety, tension, or mood swings; stress may even keep you up at night. Note that a high score is not a flaw — your sensitivity also fuels empathy and an early warning sense for risk. Regular sleep, exercise, and mindfulness can help you make peace with your emotions."
+    }
+  }
+}

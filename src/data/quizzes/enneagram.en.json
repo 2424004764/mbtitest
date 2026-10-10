@@ -1,0 +1,273 @@
+{
+  "meta": {
+    "name": "Enneagram Test",
+    "tagline": "Explore your core fears and desires",
+    "description": "36 questions, about 6 minutes, to reveal your dominant Enneagram type",
+    "minutes": 6
+  },
+  "questions": [
+    { "id": 1, "text": "There's a voice inside me always pointing out that things could be done better.", "scale": "e1", "dir": 1 },
+    { "id": 2, "text": "I'm always quick to notice what others need, and I can't help stepping in to help.", "scale": "e2", "dir": 1 },
+    { "id": 3, "text": "I often catch myself measuring everything by the achievement or recognition it might bring me.", "scale": "e3", "dir": 1 },
+    { "id": 4, "text": "I often feel different from the people around me, in a way that's hard to describe.", "scale": "e4", "dir": 1 },
+    { "id": 5, "text": "When I don't understand something, I have to figure it out completely before I can relax.", "scale": "e5", "dir": 1 },
+    { "id": 6, "text": "Before making decisions, I can't help replaying all the ways something could go wrong.", "scale": "e6", "dir": 1 },
+    { "id": 7, "text": "Fresh plans keep popping into my head — before one thing is done, I'm already starting the next.", "scale": "e7", "dir": 1 },
+    { "id": 8, "text": "I like to keep the initiative in my own hands, and I really hate being told what to do.", "scale": "e8", "dir": 1 },
+    { "id": 9, "text": "To keep the peace, I often swallow my own disagreements.", "scale": "e9", "dir": 1 },
+    { "id": 10, "text": "For most things, close enough is good enough; there's no need to chase perfection everywhere.", "scale": "e1", "dir": -1 },
+    { "id": 11, "text": "When someone hits a rough patch, I usually see it as their own business, not mine to worry about.", "scale": "e2", "dir": -1 },
+    { "id": 12, "text": "I don't care much about how others judge my achievements; a comfortable life is enough for me.", "scale": "e3", "dir": -1 },
+    { "id": 13, "text": "My moods are quite steady; I rarely fall into sentimentality.", "scale": "e4", "dir": -1 },
+    { "id": 14, "text": "I prefer lively gatherings; being on my own too long makes me uncomfortable.", "scale": "e5", "dir": -1 },
+    { "id": 15, "text": "I'm naturally easygoing and rarely worry that things will fall apart.", "scale": "e6", "dir": -1 },
+    { "id": 16, "text": "I prefer a quiet, regular life and don't chase novelty or excitement.", "scale": "e7", "dir": -1 },
+    { "id": 17, "text": "When conflict brews, I tend to step back rather than let the relationship sour.", "scale": "e8", "dir": -1 },
+    { "id": 18, "text": "When opinions clash, I insist on talking things through and don't shy away from an open debate.", "scale": "e9", "dir": -1 },
+    { "id": 19, "text": "When I see careless work or unfair treatment, I can't resist stepping in to correct it.", "scale": "e1", "dir": 1 },
+    { "id": 20, "text": "Feeling needed grounds me far more than being praised does.", "scale": "e2", "dir": 1 },
+    { "id": 21, "text": "Being seen as excellent and capable matters a great deal to me.", "scale": "e3", "dir": 1 },
+    { "id": 22, "text": "My emotions swing quite a bit; I feel joys and sorrows more intensely than most.", "scale": "e4", "dir": 1 },
+    { "id": 23, "text": "After a long stretch of socializing I'm drained and need solitude to recharge.", "scale": "e5", "dir": 1 },
+    { "id": 24, "text": "I instinctively second-guess people's motives, and only trust once I feel safe.", "scale": "e6", "dir": 1 },
+    { "id": 25, "text": "I believe life should be full of fun; nothing is harder to bear than boredom.", "scale": "e7", "dir": 1 },
+    { "id": 26, "text": "When something unfair happens, I confront it head-on, with little hesitation.", "scale": "e8", "dir": 1 },
+    { "id": 27, "text": "I dread disturbing the calm; things staying just as they are suits me fine.", "scale": "e9", "dir": 1 },
+    { "id": 28, "text": "I can accept my flaws calmly, without constantly criticizing myself inside.", "scale": "e1", "dir": -1 },
+    { "id": 29, "text": "I'm not in the habit of reaching out to care for others, and I have no wish to trade giving for affection.", "scale": "e2", "dir": -1 },
+    { "id": 30, "text": "Even when something brings no reward or glory, I'm still glad to put in the work.", "scale": "e3", "dir": -1 },
+    { "id": 31, "text": "I feel pretty much like everyone else; there's nothing particularly special about me.", "scale": "e4", "dir": -1 },
+    { "id": 32, "text": "I'm not very curious about how things work underneath; knowing how to use them is enough.", "scale": "e5", "dir": -1 },
+    { "id": 33, "text": "I'm used to making my own calls and don't need others to keep reassuring me.", "scale": "e6", "dir": -1 },
+    { "id": 34, "text": "When something bothers me, I settle in and digest it slowly instead of rushing to distract myself.", "scale": "e7", "dir": -1 },
+    { "id": 35, "text": "I'm happy to go along with what everyone has agreed on; I have no urge to fight for control.", "scale": "e8", "dir": -1 },
+    { "id": 36, "text": "I know my own needs clearly, and I don't hold back when it's time to stand up for them.", "scale": "e9", "dir": -1 }
+  ],
+  "types": {
+    "e1": {
+      "name": "The Reformer",
+      "englishName": "The Reformer",
+      "tagline": "Principled and purposeful, you hold yourself to high standards to make the world a little better.",
+      "overview": [
+        "At your core, you are driven by a desire to be good, right, and upright. A strict inner critic lives inside you, constantly measuring your own and others' conduct against the standard. You are conscientious, organized, and principled, and you find it especially hard to let your own mistakes go. You believe that if everything is done right, the world becomes a little better.",
+        "Your core fear is of being corrupt, defective, or wrong, so you tend to suppress personal desires and emotions, trading spontaneity for self-control and inner stability. Anger is the feeling you are least willing to admit to, and it usually seeps out as irritation, fault-finding, and talk of how things 'should' be. Learning to accept 'good enough' is a key step toward ease and happiness."
+      ],
+      "strengths": [
+        "Principled and dependable — your word is your bond",
+        "Meticulous and rigorous, with a strong sense of quality",
+        "Self-disciplined, able to sustain high standards over the long run",
+        "Fair and even-handed, willing to point out and fix problems"
+      ],
+      "weaknesses": [
+        "Overly harsh toward yourself and others; can be nitpicky",
+        "Suppresses emotion; irritation and anger leak out as criticism",
+        "Hard to relax; all-or-nothing thinking can become rigid"
+      ],
+      "growth": [
+        "Practice telling 'the best' from 'good enough' and allow imperfect results",
+        "Notice the inner critic and rephrase 'I should' as 'I would like to'",
+        "Schedule pure fun and rest so your body and emotions can unwind"
+      ]
+    },
+    "e2": {
+      "name": "The Helper",
+      "englishName": "The Helper",
+      "tagline": "Warm-hearted and relationship-focused, you earn love and belonging through giving.",
+      "overview": [
+        "Your core desire is to be loved and needed. You are naturally attuned to emotions, quick to sense who needs help, and ready to lend a hand. Generous, considerate, and skilled at nurturing relationships, you are the first to show up when a friend is in trouble. Giving makes you feel valuable, and it brings you closer to the people around you.",
+        "Your core fear is of being unwanted and unloved, so you sometimes over-please others and put your own needs last. When your giving goes unanswered, you may feel wronged and drift into indirect complaining. Learning to express your needs directly — and to trust that you are lovable even when you give nothing — is the key to true intimacy."
+      ],
+      "strengths": [
+        "Deeply empathic; quickly senses others' feelings and needs",
+        "Generous and warm, happy to give time and energy",
+        "Skilled at building and maintaining close relationships",
+        "Sees and champions people, making them feel truly supported"
+      ],
+      "weaknesses": [
+        "Struggles to say no; over-gives to the point of exhaustion",
+        "Suppresses own needs, indirectly trading help for affection",
+        "Moods depend on others' reactions; feels hurt when overlooked"
+      ],
+      "growth": [
+        "Practice saying no, and aim some of that care at yourself",
+        "Ask for what you need directly instead of waiting for others to notice",
+        "Notice the pattern of giving to earn love, and trust you are lovable as you are"
+      ]
+    },
+    "e3": {
+      "name": "The Achiever",
+      "englishName": "The Achiever",
+      "tagline": "Goal-driven and energetic, you win recognition through solid results.",
+      "overview": [
+        "Your core desire is to feel valuable, and your sense of value often comes from achievement and recognition. You set clear goals and deliver with striking efficiency, and you know how to show your best side to the world. Highly adaptable, you quickly grasp what an environment rewards and grow into that role. In others' eyes, you are always the one who delivers.",
+        "Your core fear is of ending up worthless, so you can tie your identity to performance and push rest and feelings into the background. To protect the image, you may avoid failure and hide exhaustion. Yet when results become the only coordinate, happiness grows thin. Telling 'what I do' apart from 'who I am' is your essential growth task."
+      ],
+      "strengths": [
+        "Highly goal-oriented, with exceptional drive and efficiency",
+        "Adaptable, quick to seize opportunities and resources",
+        "Confident and capable, able to energize a whole team",
+        "Full of stamina, staying productive under pressure"
+      ],
+      "weaknesses": [
+        "Binds self-worth too tightly to results and recognition",
+        "Prone to workaholism, sidelining feelings and health",
+        "Dodges failure to protect the image; struggles to show vulnerability"
+      ],
+      "growth": [
+        "Regularly schedule rest and hobbies that produce no achievement",
+        "Practice showing trusted people your vulnerable side, not just highlights",
+        "Write down the qualities you value in yourself beyond titles and wins"
+      ]
+    },
+    "e4": {
+      "name": "The Individualist",
+      "englishName": "The Individualist",
+      "tagline": "Sensitive and deep, you search for yourself and your meaning in what makes you unique.",
+      "overview": [
+        "Your core desire is to find your true self and a meaning that is yours alone. You feel things finely, at a higher intensity than most, and are easily moved by beauty, melancholy, and devotion. Unwilling to drift with the crowd, you keep asking who you really are and what life truly belongs to you. This sensitivity also gives you remarkable taste and creativity.",
+        "Your core fear is of losing your identity and becoming ordinary, so you magnify what makes you different — and what is missing. When emotions surge, you can drown in them, and comparisons leave you feeling deficient. Learn to keep yourself steady company and to see the good you already have, and your depth of feeling becomes nourishment rather than drain."
+      ],
+      "strengths": [
+        "Exquisite sensitivity, with outstanding aesthetics and creativity",
+        "Authentic and true to your heart; you live without a mask",
+        "Empathizes with others' pain and offers deep understanding",
+        "Finds singular beauty and meaning in ordinary things"
+      ],
+      "weaknesses": [
+        "Volatile moods; prone to wallowing in melancholy and self-pity",
+        "Fixates on what's missing; comparisons breed self-doubt",
+        "Resists the ordinary, often feeling restless and detached from daily life"
+      ],
+      "growth": [
+        "Name your emotions and set limits; practice watching feelings instead of being them",
+        "Each day, note three good things you already have, shifting focus from lack to plenty",
+        "Use creative work as an outlet, turning depth of feeling into finished pieces"
+      ]
+    },
+    "e5": {
+      "name": "The Investigator",
+      "englishName": "The Investigator",
+      "tagline": "Calm, curious, and self-contained, you secure yourself by understanding the world.",
+      "overview": [
+        "Your core desire is to be capable and to understand. You carry a deep curiosity about the world, love digging into how things work, and find certainty in accumulating knowledge. Perceptive and independent in thought, you would rather stay in a field you have mastered than spend yourself in shallow noise. You are a natural researcher and thinker.",
+        "Your core fear is of being helpless, incompetent, or drained by the world's demands, so you conserve energy, keep your distance, and prefer to think everything through before moving. Sharing feelings can feel exposing, while solitude recharges you. Learning to join life in moderation and to learn by doing turns your erudition into real power."
+      ],
+      "strengths": [
+        "Sharp perception; skilled at analyzing complex problems",
+        "Strong intellectual curiosity, with deep and systematic knowledge",
+        "Calm and objective; keeps clear judgment amid chaos",
+        "Independent and focused, able to go deep in one field for years"
+      ],
+      "weaknesses": [
+        "Retreats too far into the mind, avoiding emotion and social contact",
+        "Hoards energy and knowledge, delaying action indefinitely",
+        "Feels chronically short on inner resources and stays well guarded"
+      ],
+      "growth": [
+        "Start with small actions; let yourself learn by doing instead of thinking it all through",
+        "Practice sharing feelings with people close to you, not just insights",
+        "Keep regular exercise and social rhythms, letting your body lead you out of your head"
+      ]
+    },
+    "e6": {
+      "name": "The Loyalist",
+      "englishName": "The Loyalist",
+      "tagline": "Careful, loyal, and dutiful, you look for safety and support amid uncertainty.",
+      "overview": [
+        "Your core desire is for security and support. Watchful and prudent, you rehearse risks in your head and prepare contingencies ahead of time. You are fiercely loyal to those you trust — a reliable ally and a steady executor. You may question authority or lean on it, and this tension keeps you constantly weighing who can truly be relied on.",
+        "Your core fear is of losing support and safety, so you protect yourself with doubt: checking again and again, deciding late, hunting for certain answers. Anxiety is a familiar undertone, yet it also makes you thorough and foresighted. Telling imagined dangers from real risks, and practicing trust in your own judgment, will settle your mind considerably."
+      ],
+      "strengths": [
+        "Loyal and dependable; takes commitments and duty very seriously",
+        "Strong risk awareness; anticipates and prevents problems",
+        "Thorough and careful — the team's dependable gatekeeper",
+        "Calm and resilient in a crisis; stands by people through thick and thin"
+      ],
+      "weaknesses": [
+        "Anxious and suspicious; repeated reassurance rarely quiets the mind",
+        "Indecisive, wavering and stalling when decisions loom",
+        "Over-relies on authority, rules, or other people's guarantees"
+      ],
+      "growth": [
+        "Write your worries down and sort real risks from imagined disasters",
+        "Practice trusting yourself with small decisions to build inner security",
+        "Use regular exercise and slow breathing to help your body stand down"
+      ]
+    },
+    "e7": {
+      "name": "The Enthusiast",
+      "englishName": "The Enthusiast",
+      "tagline": "Optimistic and quick-moving, you live in pursuit of fun and possibility.",
+      "overview": [
+        "Your core desire is for satisfaction and joy. Optimistic by nature, with a mind that leaps ahead, you keep a long wish list running in your head. You love fresh experiences and are quick to find the fun — the liveliest one at the party and the idea machine on the team. To you the world is full of tempting options, and life is meant to be tasted to the fullest.",
+        "Your core fear is of pain and deprivation, so you instinctively steer around anything dull or uncomfortable, filling your attention with new plans. The escape keeps you vibrant, but it also makes follow-through hard, leaving messes for tomorrow. Practice staying with discomfort for a little while: deeper joy needs time to settle, and real ownership begins with choosing."
+      ],
+      "strengths": [
+        "Optimistic and enthusiastic; lifts the energy of any room",
+        "Richly inventive, quick to spot opportunities and possibilities",
+        "Versatile, picks up new things fast",
+        "High energy; happily runs several exciting projects at once"
+      ],
+      "weaknesses": [
+        "Struggles to focus and finish; easily carried off by novelty",
+        "Avoids pain and boredom, numbing discomfort with busyness",
+        "Prone to excess — impulsive spending, overdoing — with few brakes"
+      ],
+      "growth": [
+        "Do one thing at a time, and see one plan through to the finish",
+        "When boredom or discomfort arises, stay three minutes before acting, and notice the feeling beneath",
+        "Subtract before you commit: ask which option you truly want"
+      ]
+    },
+    "e8": {
+      "name": "The Challenger",
+      "englishName": "The Challenger",
+      "tagline": "Forceful, decisive, and protective, you take command of your own destiny.",
+      "overview": [
+        "Your core desire is to control your own life and protect the people around you. You have a strong presence and make decisions fast; your natural bluntness means you say what you mean and hate talking in circles. Conflict does not scare you — you treat it as a way to make things clear. Facing the vulnerable and the unjust, you step up, the one friends count on to hold the line.",
+        "Your core fear is of being controlled or hurt, so you lead with strength and bury vulnerability deep. Full intensity becomes your normal, and softness feels unsettling. Yet under the armor is a heart that can ache. Learning to show weakness and to trust — letting those close to you see the real you — is what turns power into genuine closeness."
+      ],
+      "strengths": [
+        "Decisive and self-assured; makes the call and acts fast in a crisis",
+        "Candid and direct; does what it says and prizes loyalty highly",
+        "Strongly protective; stands up for the vulnerable and against injustice",
+        "Formidable willpower; challenges only sharpen your fighting spirit"
+      ],
+      "weaknesses": [
+        "Dominating and headstrong; can steamroll others' space and views",
+        "Avoids vulnerability, using anger as the only emotional outlet",
+        "Overly controlling; struggles to accept other paces and ways"
+      ],
+      "growth": [
+        "Practice pausing: when anger rises, wait six seconds before responding",
+        "Reveal vulnerability to people you trust, and experience undefended closeness",
+        "Trade 'do it my way' for genuine asking, leaving others room to decide"
+      ]
+    },
+    "e9": {
+      "name": "The Peacemaker",
+      "englishName": "The Peacemaker",
+      "tagline": "Easygoing and accepting, you quietly tend the peace within and around you.",
+      "overview": [
+        "Your core desire is for inner peace and stability. Agreeable and patient, you naturally understand where everyone stands — the team's lubricant and the mediator among friends. You dislike scrambling for position and are happy to go with the flow; spending time with you puts people at ease. Harmony, for you, is not just atmosphere but a deep need.",
+        "Your core fear is of conflict and losing connection, so you habitually play down your own position and keep 'either works' and 'whatever you all think' on your lips. Over time you may forget what you truly want, drifting into inertia, procrastination, and numbing routines. Practice voicing disagreement and recovering your own wants — then calm becomes a living strength rather than numb compliance."
+      ],
+      "strengths": [
+        "Accepting and easygoing; embraces people of every temperament",
+        "Patient and steady; a born mediator and a good listener",
+        "Sees every side and is skilled at building consensus",
+        "Emotionally steady, bringing a grounding presence to those nearby"
+      ],
+      "weaknesses": [
+        "Avoids conflict; suppresses own positions and needs",
+        "Fuzzy sense of direction; prone to procrastination and numbing out",
+        "Over-accommodating; turns passively stubborn under pressure"
+      ],
+      "growth": [
+        "Ask yourself each day what you want right now, and say it out loud",
+        "Practice disagreeing over small things; conflict does not mean losing the relationship",
+        "Fight procrastination with lists and deadlines that keep priorities visible"
+      ]
+    }
+  }
+}

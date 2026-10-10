@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>MBTI 16 Personalities Test · 免费MBTI人格测试</title>
+    <meta name="description" content="Free MBTI-style personality test with 93 questions. Discover your 16-personality type in 3 or 12 minutes. Bilingual (English/中文), no sign-up, results stay on your device. 免费在线MBTI人格测试：93题完整版与28题速测，中英双语，无需注册。" />
+    <!-- Baidu: declare PC/mobile adaptation -->
+    <meta name="applicable-device" content="pc,mobile" />
+    <!-- 360 legacy dual-core browsers -->
+    <meta name="renderer" content="webkit" />
+    <!-- TODO after domain goes live: add <meta name="baidu-site-verification" content="…"> and/or
+         <meta name="google-site-verification" content="…"> from each engine's search console -->
+    <meta name="theme-color" content="#5b5bd6" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0c0e14" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/icons/icon-192.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="canonical" href="https://mbtitest.fologde.com/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="MBTI Personality Test · MBTI 人格测试" />
+    <meta property="og:title" content="MBTI 16 Personalities Test · 免费MBTI人格测试" />
+    <meta property="og:description" content="Free, fast and private MBTI-style test — 93-question full version or 28-question quick version, bilingual English/中文." />
+    <meta property="og:url" content="https://mbtitest.fologde.com/" />
+    <meta property="og:image" content="https://mbtitest.fologde.com/og.png" />
+    <meta property="og:locale" content="zh_CN" />
+    <meta property="og:locale:alternate" content="en_US" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="MBTI 16 Personalities Test · 免费MBTI人格测试" />
+    <meta name="twitter:description" content="Free, fast and private MBTI-style test — 93-question full version or 28-question quick version, bilingual English/中文." />
+    <meta name="twitter:image" content="https://mbtitest.fologde.com/og.png" />
+    <script type="application/ld+json" id="seo-jsonld">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://mbtitest.fologde.com/#website",
+            "url": "https://mbtitest.fologde.com/",
+            "name": "MBTI Personality Test · MBTI 人格测试",
+            "inLanguage": ["zh-CN", "en"]
+          },
+          {
+            "@type": "WebApplication",
+            "@id": "https://mbtitest.fologde.com/#app",
+            "url": "https://mbtitest.fologde.com/",
+            "name": "MBTI 16 Personalities Test",
+            "applicationCategory": "EducationalApplication",
+            "operatingSystem": "Any",
+            "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+            "inLanguage": ["zh-CN", "en"]
+          }
+        ]
+      }
+    </script>
+    <script>
+      // Apply saved/system theme before first paint to avoid flashing
+      (function () {
+        try {
+          var saved = localStorage.getItem('mbti_theme');
+          var dark =
+            saved === 'dark' ||
+            ((!saved || saved === 'system') &&
+              window.matchMedia('(prefers-color-scheme: dark)').matches);
+          if (dark) document.documentElement.classList.add('dark');
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
